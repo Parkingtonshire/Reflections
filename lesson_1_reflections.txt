@@ -1,0 +1,4 @@
+A little confusing at first because it was difficult to wrap my head around the format in which it was laid out.
+Could make it easier when there comes a time to roll back on a change you made or to help replicate what you have accomplished in the future.
+Saving the commits manually means you can break down the amount you save on your own terms and make it easier to understand. This has the downside of possible human errors (forgetting to save etc.)
+In coding there are different codes which all add up to a single project so it would be more efficient and neat to save them as a bunch, while something like Google Doc stores individual files that are usually not related to one another, so saving in bunch is a waste and not needed.
