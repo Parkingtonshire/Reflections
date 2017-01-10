@@ -1,0 +1,1 @@
+In coding there are different codes which all add up to a single project so it would be more efficient and neat to save them as a bunch, while something like Google Doc stores individual files that are usually not related to one another, so saving in bunch is a waste and not needed.

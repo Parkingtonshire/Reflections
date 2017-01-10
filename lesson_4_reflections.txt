@@ -1,0 +1,1 @@
+Saving the commits manually means you can break down the amount you save on your own terms and make it easier to understand. This has the downside of possible human errors (forgetting to save etc.)
